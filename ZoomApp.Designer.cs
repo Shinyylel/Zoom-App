@@ -1,6 +1,6 @@
 ﻿namespace ZoomApp
 {
-    partial class Form1
+    partial class ZoomApp
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ZoomApp));
             this.btnBox = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 

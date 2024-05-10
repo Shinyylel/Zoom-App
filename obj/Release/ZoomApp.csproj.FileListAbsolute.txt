@@ -1,0 +1,11 @@
+C:\Cohd\C#\ZoomApp\ZoomApp\bin\Release\ZoomApp.exe.config
+C:\Cohd\C#\ZoomApp\ZoomApp\bin\Release\ZoomApp.exe
+C:\Cohd\C#\ZoomApp\ZoomApp\bin\Release\ZoomApp.pdb
+C:\Cohd\C#\ZoomApp\ZoomApp\obj\Release\ZoomApp.csproj.AssemblyReference.cache
+C:\Cohd\C#\ZoomApp\ZoomApp\obj\Release\ZoomApp.Form1.resources
+C:\Cohd\C#\ZoomApp\ZoomApp\obj\Release\ZoomApp.MagnifierForm.resources
+C:\Cohd\C#\ZoomApp\ZoomApp\obj\Release\ZoomApp.Properties.Resources.resources
+C:\Cohd\C#\ZoomApp\ZoomApp\obj\Release\ZoomApp.csproj.GenerateResource.cache
+C:\Cohd\C#\ZoomApp\ZoomApp\obj\Release\ZoomApp.csproj.CoreCompileInputs.cache
+C:\Cohd\C#\ZoomApp\ZoomApp\obj\Release\ZoomApp.exe
+C:\Cohd\C#\ZoomApp\ZoomApp\obj\Release\ZoomApp.pdb
